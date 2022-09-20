@@ -1,0 +1,6 @@
+public string FirstName { get; set; }
+public string LastName { get; set; }
+public string AuthorEmail { get; set; }
+public string Photo { get; set; }
+public DateTime BirthDate { get; set; }
+public Double StartWeight { get; set; }

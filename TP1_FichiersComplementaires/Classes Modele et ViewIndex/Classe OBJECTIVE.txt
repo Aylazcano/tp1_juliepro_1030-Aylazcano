@@ -1,0 +1,4 @@
+public string Name { get; set; }
+public double LostWeight { get; set; }
+public Double DistanceKm { get; set; }
+public DateTime AchievedDate { get; set; }

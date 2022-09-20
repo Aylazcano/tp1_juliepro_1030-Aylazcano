@@ -1,0 +1,5 @@
+public string Description { get; set; }
+public DateTime Date { get; set; }
+public int DurationMin { get; set; }
+public bool WithTrainer { get; set; }
+public bool Complete { get; set; }
